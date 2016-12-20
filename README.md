@@ -20,7 +20,7 @@ Yay~ Three days ahead! ^_^
 
 ### [Survey for Group 2](https://tccolumbia.qualtrics.com/SE/?SID=SV_cMcWNz2EW1gFPYp)
 ### Group 3 - Yoyo performance
-+xiao Ting, Jiaxi Li , Xiangyu Wang, Xiaoyue Zhang
++Xiaoting Kuang, Jiaxi Li , Xiangyu Wang, Xiaoyue Zhang
 
 +"Measuring Performance on Yoyo Playing for Expert versus Beginner"
 

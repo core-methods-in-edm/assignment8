@@ -19,3 +19,14 @@ Yay~ Three days ahead! ^_^
 +LRR2014@tc.columbia.edu.*
 
 ### [Survey for Group 2](https://tccolumbia.qualtrics.com/SE/?SID=SV_cMcWNz2EW1gFPYp)
+
+##Salsa Dancing Visualized
+###Group Members
+* Josh Coleman
+* Lauren Fox
+* Devon Goto
+* Rob Jackson
+* Jon Stelman
+
+###Link To Project
+* [Salsa Dancing Visualized](https://drive.google.com/open?id=0B6yI8UTxTiqabF85QjlGRVUwTzg)

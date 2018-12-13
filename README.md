@@ -31,6 +31,9 @@ The Quantified Student
 Dristi Adhikari, Zhitong Lei, Shijia Lin, Yi Liu, Juye Wang, Xuecen Wang, Liping Yang
 [link](https://vialogues.com/vialogues/play/47912)
 
+### Group 4 - Chinese Handwriting
+Taha Adib, Carmen Cortez Morales, Ian Douglas, Yuzhuo Gao, Megan Russell, Sihan Wang, Qingying Zhou
+[link](https://drive.google.com/open?id=1ky0n832iuymt0kZAIDd-SLfzX50OcnyR)
 
 ## 2017  
 

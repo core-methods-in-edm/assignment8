@@ -1,0 +1,10 @@
+---
+title: "Group 1 submission link"
+author: "Indira"
+date: "12/11/2019"
+output: html_document
+---
+
+# Group 1 - Typing Method
+# Zhonyuan Zhang, XueQian Timothy Lee, Qiyang Lin, Minruo Wang, Indira Batayeva
+# link: https://youtu.be/25D7BXL7gJw 

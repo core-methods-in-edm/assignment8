@@ -1,0 +1,11 @@
+---
+title: "Group_6_Submission_Link.Rmd"
+author: "jiahao guo"
+date: "2019/12/11"
+output: html_document
+---
+
+
+### Group 6 Arknights - Standing Long Jump
+# Yiwen Ma, Chengxuan Hu, Xi Yang, Lingling Miao, ShaoShi Jie, Mengjie Xu, Jiahao Guo 
+# Link: 

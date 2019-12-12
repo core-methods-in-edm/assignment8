@@ -7,5 +7,5 @@ output: html_document
 
 
 ### Group 6 Arknights - Standing Long Jump
-# Yiwen Ma, Chengxuan Hu, Xi Yang, Lingling Miao, ShaoShi Jie, Mengjie Xu, Jiahao Guo 
-# Link: 
+# Yiwen Ma, Chengxuan Hu, Xi Yang, Lingling Miao, Shijie Shao, Mengjie Xu, Jiahao Guo 
+#   Link: https://youtu.be/bwFUYvNX1Mg

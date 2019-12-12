@@ -1,10 +1,10 @@
 ---
-title: "Group 3 Submission Link"
-author: "Anna Lizarov"
-date: "December 13, 2018"
+title: "Group 4 Submission Link"
+author: "Eudora Xinyi Niu"
+date: "December 11, 2019"
 output: html_document
 ---
 
-### Group 3 - Table Tennis Pro
-# Aidi Bian, Qiyu Chen, Elliot Hu-Au, Anna Lizarov, Delciane Wright, Chieh-An Yang, Jiaying Li 
-# Link: https://vialogues.com/vialogues/play/47951
+### Group 4 - Chick-Fil-A
+# Chenyue Yan, Suwon Jung, Hsiao Yang,Yigao Liu, Eudora Xinyi Niu, Zifan Cao
+# Link: https://github.com/EudoraNiu/assignment8.git

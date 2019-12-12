@@ -23,9 +23,55 @@
 
 ## 2019
 
+### Group 1 - Typing Method
+Zhonyuan Zhang, XueQian Timothy Lee, Qiyang Lin, Minruo Wang, Indira Batayeva
+[Link](https://youtu.be/25D7BXL7gJw) 
+
+### Group 2 - Tree
+Fernando Amaral-Carnauba, Han Wang, Leonardo Restrepo, Leona Zhu, Xiaowen(Susan) Chen
+[Link](https://drive.google.com/open?id=1r7lZ9QuZdRcyQuIwwFabT_w3OsQcda1P)
+
+### Group 3 - Chick-Fil-A
+Chenyue Yan, Suwon Jung, Hsiao Yang,Yigao Liu, Eudora Xinyi Niu, Zifan Cao
+[Link](https://www.youtube.com/watch?v=g4P6xYKUtbQ)
+
+### Group 4 - Happy Charles - How to Hula Hoop
+John Bylander, Ling Ai, Xinke Song, Yang Yi, Yawei Zhu, Yue Ma, Zixuan Ma
+[Link](https://drive.google.com/file/d/1ZbweY0R50hZ630lWxkNmAc3-cmS0fJbj/view?usp=sharing)
+
 ### Group 5 - "We R" - Darts
-Members: Jingru Zhang, Maho Hayashi, Di Mao, Bernell Downer, Ningyao Xu, Allison Teevan, Christine Odenath
-[link] (https://www.youtube.com/watch?v=-MGrSbMFjbE&feature=youtu.be) Enjoy the video!
+Jingru Zhang, Maho Hayashi, Di Mao, Bernell Downer, Ningyao Xu, Allison Teevan, Christine Odenath
+[Link](https://www.youtube.com/watch?v=-MGrSbMFjbE&feature=youtu.be) Enjoy the video!
+
+### Group 6 - Arknights: Standing Long Jump
+Yiwen Ma, Chengxuan Hu, Xi Yang, Lingling Miao, ShaoShi Jie, Mengjie Xu, Jiahao Guo 
+[Link](https://youtu.be/bwFUYvNX1Mg) 
+
+### Group 7 - Shuffleboard Pro
+K. David Pearce, Shu-Yi Hsu, Yiwei Qi, Joellyn Heng, Alysandra J. Zhang
+[Link](https://drive.google.com/file/d/11XiXrbYqn0Hcvgw8ICwrpV_AYYkZDVft/view?usp=sharing)
+
+### Group 8 - Team Front Row
+Jiancong Shen, Artemas Wang, Xinyi Zhou, Anqi Duan, Lingtong Li
+[Link](https://youtu.be/RwR7qtLfcOM)
+
+### Group 9
+Qian Hui, Sean Lin, Jingze Dai, Bozi Jin, Yanyi Chen
+[Link](https://www.vialogues.com/vialogues/play/54020)
+
+### Group 10 
+Ruiqi Wang, Ziyuan Guo, Xudian Zhang, Luyi Dai, Xiaojue Liu, Jiali Jin, Zimo Chen
+[Link](https://youtu.be/0LE7ni9uzvI)
+
+### Group 11
+Qian Hui, Sean Lin, Jingze Dai, Bozi Jin, Yanyi Chen
+[Link](https://www.vialogues.com/vialogues/play/54020)
+
+### Group 12 - Popeyes
+Yujun Zhang, Yijia Wu, Jie Chen, Yiyi Xie, Wanruo Zhang, Chaoxiong Chen, Popoyes本po
+[Link](https://drive.google.com/file/d/1RW8VBFNH4aC7KERJpq9KuEpJh74mHMLg/view?usp=sharing)
+
+### Group 13
 
 
 ## 2018  

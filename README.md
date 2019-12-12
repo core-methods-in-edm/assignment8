@@ -72,7 +72,7 @@ Yujun Zhang, Yijia Wu, Jie Chen, Yiyi Xie, Wanruo Zhang, Chaoxiong Chen, Popoyes
 [Link](https://drive.google.com/file/d/1RW8VBFNH4aC7KERJpq9KuEpJh74mHMLg/view?usp=sharing)
 
 ### Group 13
-Weijiang Chen, Chuheng Yu, Han Ge, LingCai Yuan
+Weijiang Chen, Chuheng Yu, Han Ge, LingCai Yuan  
 [Link](https://youtu.be/WgXDINp60vE)
 
 ## 2018  

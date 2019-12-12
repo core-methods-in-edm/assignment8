@@ -23,9 +23,9 @@
 
 ## 2019
 
-### Group "We R" - Darts
+### Group 5 - "We R" - Darts
 Members: Jingru Zhang, Maho Hayashi, Di Mao, Bernell Downer, Ningyao Xu, Allison Teevan, Christine Odenath
-https://www.youtube.com/watch?v=-MGrSbMFjbE&feature=youtu.be
+[link] (https://www.youtube.com/watch?v=-MGrSbMFjbE&feature=youtu.be) Enjoy the video!
 
 
 ## 2018  

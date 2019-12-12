@@ -45,7 +45,7 @@ Jingru Zhang, Maho Hayashi, Di Mao, Bernell Downer, Ningyao Xu, Allison Teevan, 
 
 ### Group 6 - Arknights: Standing Long Jump
 Yiwen Ma, Chengxuan Hu, Xi Yang, Lingling Miao, ShaoShi Jie, Mengjie Xu, Jiahao Guo   
-[Link](https://youtu.be/bwFUYvNX1Mg) 
+[Link](https://www.youtube.com/watch?v=yFF2CWgSKMA&feature=youtu.be) 
 
 ### Group 7 - Shuffleboard Pro
 K. David Pearce, Shu-Yi Hsu, Yiwei Qi, Joellyn Heng, Alysandra J. Zhang  

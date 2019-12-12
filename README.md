@@ -23,6 +23,11 @@
 
 ## 2019
 
+### Group 5 - "We R" - Darts
+Members: Jingru Zhang, Maho Hayashi, Di Mao, Bernell Downer, Ningyao Xu, Allison Teevan, Christine Odenath
+[link] (https://www.youtube.com/watch?v=-MGrSbMFjbE&feature=youtu.be) Enjoy the video!
+
+
 ## 2018  
 
 ### Group 1 - Paddle Pros - Using data to create a ping pong champion

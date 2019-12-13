@@ -64,7 +64,7 @@ Ruiqi Wang, Ziyuan Guo, Xudian Zhang, Luyi Dai, Xiaojue Liu, Jiali Jin, Zimo Che
 [Link](https://youtu.be/0LE7ni9uzvI)
 
 ### Group 11
-Qian Hui, Sean Lin, Jingze Dai, Bozi Jin, Yanyi Chen  
+Beibei Cao, Yaqi Lu, Yixiao Li, Zhaozhuo Zheng  
 [Link](https://www.vialogues.com/vialogues/play/54025/) 
 
 ### Group 12 - Popeyes

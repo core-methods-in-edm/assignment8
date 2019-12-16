@@ -32,7 +32,7 @@ Fernando Amaral-Carnauba, Han Wang, Leonardo Restrepo, Leona Zhu, Xiaowen(Susan)
 [Link](https://drive.google.com/open?id=1r7lZ9QuZdRcyQuIwwFabT_w3OsQcda1P)
 
 ### Group 3 - Chick-Fil-A
-Chenyue Yan, Suwon Jung, Hsiao Yang,Yigao Liu, Eudora Xinyi Niu, Zifan Cao  
+Chenyu Yan, Suwon Jung, Hsiao Yang,Yigao Liu, Eudora Xinyi Niu, Zifan Cao  
 [Link](https://www.youtube.com/watch?v=g4P6xYKUtbQ)
 
 ### Group 4 - Happy Charles - How to Hula Hoop

@@ -1,0 +1,173 @@
+---
+title: "assignment 8"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(tidyverse)
+library(tidyr)
+library(GGally)
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+#The measured X and Y linear accelerations determine the position of the ball along the X and Y axes. The Z acceleration determines the height of the ball, as indicated by the ball radius and the square bracket (marked Z).
+GH1 <- read.csv("~/Desktop/master fall/assignment8/gh 1- before.csv")
+GH2 <- read.csv("~/Desktop/master fall/assignment8/gh2-after.csv")
+ggplot(GH1, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="han ge x-axis"))+geom_line(aes(y=lac_Y_value,color ="han ge y-axis"))+geom_line(aes(y=lac_Z_value,color="han ge z-axis"))
+ ggplot(GH2, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="han ge x-axis"))+geom_line(aes(y=lac_Y_value,color ="han ge y-axis"))+geom_line(aes(y=lac_Z_value,color="han ge z-axis"))
+ 
+```
+
+```{r}
+CWJ1 <- read.csv("~/Desktop/master fall/assignment8/cwj1.csv")
+CWJ2 <- read.csv("~/Desktop/master fall/assignment8/cwj2.csv")
+ggplot(CWJ1, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="CWJ x-axis"))+geom_line(aes(y=lac_Y_value,color ="CWJ y-axis"))+geom_line(aes(y=lac_Z_value,color="CWJ z-axis"))
+ggplot(CWJ2, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="CWJ x-axis"))+geom_line(aes(y=lac_Y_value,color ="CWJ y-axis"))+geom_line(aes(y=lac_Z_value,color="CWJ z-axis"))
+```
+
+```{r}
+YCH1 <- read.csv("~/Desktop/master fall/assignment8/ych - before.csv")
+YCH2 <- read.csv("~/Desktop/master fall/assignment8/ych - after.csv")
+ggplot(YCH1, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="YCH x-axis"))+geom_line(aes(y=lac_Y_value,color ="YCH y-axis"))+geom_line(aes(y=lac_Z_value,color="YCH z-axis"))
+ggplot(YCH2, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="YCH x-axis"))+geom_line(aes(y=lac_Y_value,color ="YCH y-axis"))+geom_line(aes(y=lac_Z_value,color="YCH z-axis"))
+```
+
+
+```{r}
+ERIC1 <- read.csv("~/Desktop/master fall/assignment8/eric before.csv")
+ERIC2 <- read.csv("~/Desktop/master fall/assignment8/eric - after.csv")
+ggplot(ERIC1, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="ERIC x-axis"))+geom_line(aes(y=lac_Y_value,color ="ERIC y-axis"))+geom_line(aes(y=lac_Z_value,color="ERIC z-axis"))
+ggplot(ERIC2, aes(x=time_tick)) + geom_line(aes(y=lac_X_value,color ="ERIC x-axis"))+geom_line(aes(y=lac_Y_value,color ="ERIC y-axis"))+geom_line(aes(y=lac_Z_value,color="ERIC z-axis"))
+```
+
+```{R}
+GH1 <- abs(GH1)
+GH2 <- abs(GH2)
+mean.gh1 <- c(mean(GH1$lac_X_value),mean(GH1$lac_Y_value),mean(GH1$lac_Z_value))
+var.gh1 <- c(var(GH1$lac_X_value),var(GH1$lac_Y_value),var(GH1$lac_Z_value))
+sd.gh1 <- sqrt(var.gh1)
+mean.gh1
+var.gh1
+sd.gh1
+mean.gh2 <- c(mean(GH2$lac_X_value),mean(GH2$lac_Y_value),mean(GH2$lac_Z_value))
+var.gh2 <- c(var(GH2$lac_X_value),var(GH2$lac_Y_value),var(GH2$lac_Z_value))
+sd.gh2 <- sqrt(var.gh2)
+mean.gh2
+var.gh2
+sd.gh2
+```
+
+```{R}
+CWJ1 <- abs(CWJ1)
+CWJ2 <- abs(CWJ2)
+mean.CWJ1 <- c(mean(CWJ1$lac_X_value),mean(CWJ1$lac_Y_value),mean(CWJ1$lac_Z_value))
+var.CWJ1 <- c(var(CWJ1$lac_X_value),var(CWJ1$lac_Y_value),var(CWJ1$lac_Z_value))
+sd.CWJ1 <- sqrt(var.CWJ1)
+mean.CWJ1
+var.CWJ1
+sd.CWJ1
+mean.CWJ2 <- c(mean(CWJ2$lac_X_value),mean(CWJ2$lac_Y_value),mean(CWJ2$lac_Z_value))
+var.CWJ2 <- c(var(CWJ2$lac_X_value),var(CWJ2$lac_Y_value),var(CWJ2$lac_Z_value))
+sd.CWJ2 <- sqrt(var.CWJ2)
+mean.CWJ2
+var.CWJ2
+sd.CWJ2
+```
+
+```{R}
+YCH1 <- abs(YCH1)
+YCH2 <- abs(YCH2)
+mean.YCH1 <- c(mean(YCH1$lac_X_value),mean(YCH1$lac_Y_value),mean(YCH1$lac_Z_value))
+var.YCH1 <- c(var(YCH1$lac_X_value),var(YCH1$lac_Y_value),var(YCH1$lac_Z_value))
+sd.YCH1 <- sqrt(var.YCH1)
+mean.YCH1
+var.YCH1
+sd.YCH1
+mean.YCH2 <- c(mean(YCH2$lac_X_value),mean(YCH2$lac_Y_value),mean(YCH2$lac_Z_value))
+var.YCH2 <- c(var(YCH2$lac_X_value),var(YCH2$lac_Y_value),var(YCH2$lac_Z_value))
+sd.YCH2 <- sqrt(var.YCH2)
+mean.YCH2
+var.YCH2
+sd.YCH2
+```
+
+```{R}
+ERIC1 <- abs(ERIC1)
+ERIC2 <- abs(ERIC2)
+mean.ERIC1 <- c(mean(ERIC1$lac_X_value),mean(ERIC1$lac_Y_value),mean(ERIC1$lac_Z_value))
+var.ERIC1 <- c(var(ERIC1$lac_X_value),var(ERIC1$lac_Y_value),var(ERIC1$lac_Z_value))
+sd.ERIC1 <- sqrt(var.ERIC1)
+mean.ERIC1
+var.ERIC1
+sd.ERIC1
+mean.ERIC2 <- c(mean(ERIC2$lac_X_value),mean(ERIC2$lac_Y_value),mean(ERIC2$lac_Z_value))
+var.ERIC2 <- c(var(ERIC2$lac_X_value),var(ERIC2$lac_Y_value),var(ERIC2$lac_Z_value))
+sd.ERIC2 <- sqrt(var.ERIC2)
+mean.ERIC2
+var.ERIC2
+sd.ERIC2
+```
+
+```{r}
+CB1 <- rbind(GH1,CWJ1,YCH1,ERIC1)
+CB2 <- rbind(GH2,CWJ2,YCH2,ERIC2)
+group <- c(1)
+CB1 <- cbind(CB1,group)
+group <- c(2)
+CB2 <- cbind(CB2,group)
+CB <- rbind(CB1,CB2)
+str(CB)
+
+res1 <- t.test(CB1$lac_X_value,CB2$lac_X_value)
+res1
+res2 <- t.test(CB1$lac_Y_value,CB2$lac_Y_value)
+res2
+res3 <- t.test(CB1$lac_Z_value,CB2$lac_Z_value)
+res3
+#z-axis has no significant difference
+
+library(lattice)
+CB1 <- data.frame(CB1)
+CB2 <- data.frame(CB2)
+cloud(CB1$lac_Z_value~CB1$lac_X_value*CB1$lac_Y_value,data = CB1,color = "red")
+cloud(CB2$lac_Z_value~CB2$lac_X_value*CB2$lac_Y_value,data = CB2)
+```
+```{r}
+time1<-c(10.754328-1.659422,10.10797-2.003494,12.410064-2.118693,8.82169-0.515078)
+time2<-c(8.452365-0.890054,10.01876-2.752813,14.771162-7.462382,11.44068-3.715343)
+time1
+time2
+height <- c(183,180,183,173)
+weight<- c(95,80,80,48)
+gender <-c('male','male','male','female')
+group <- c(1)
+D1 <- cbind(time1,height,weight,gender,group)
+group <- c(2)
+D2 <- cbind(time2,height,weight,gender,group)
+D3 <- rbind(D1,D2)
+D3 <- as.data.frame(D3)
+D3$time1 <- as.character(D3$time1)
+D3$height <-as.numeric(D3$height)
+D3$weight <- as.numeric(D3$weight)
+D3$group <- as.numeric(D3$group)
+D3$group[which(D3$group == 1)] <- "before"
+D3$group[which(D3$group == 2)] <- "after"
+lm1 <- lm(formula =time1~height+weight+gender+group,data = D3)
+summary(lm1)
+options(contrasts = c("contr.sum", "contr.poly")) 
+lm2 <- lm(formula =time1~group,data = D3)
+summary(lm2)
+lm3 <- lm(formula =time1~1,data = D3)
+summary(lm3)
+anova(lm2,lm3)
+```
+
